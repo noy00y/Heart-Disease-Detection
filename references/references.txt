@@ -1,0 +1,7 @@
+Datasets:
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+Citations:
+- American Heart Association. (n.d.). Understand Your Risks to Prevent a Heart Attack. Retrieved March 29, 2023, from https://www.heart.org/en/health-topics/heart-attack/understand-your-risks-to-prevent-a-heart-attack
+- Mayo Clinic. (2022). Heart disease diagnosis. https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124
+- National Heart, Lung, and Blood Institute. (2021). How is heart disease diagnosed? https://www.nhlbi.nih.gov/health-topics/heart-disease-diagnosis
